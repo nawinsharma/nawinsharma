@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nawin</h1>
 <h3 align="center">I'm Exploring the Boundless Horizons of Web Development | Coding Enthusiast on a Quest for Programming Excellence 🌐💻</h3>
 
-- 🌱 I’m currently learning **redux toolkit**
+- 🌱 I’m currently learning **Node js**
 
 - 📫 How to reach me **nawinsharma60@gmail.com**
 
