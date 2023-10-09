@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nawin</h1>
 <h3 align="center">I'm Exploring the Boundless Horizons of Web Development | Coding Enthusiast on a Quest for Programming Excellence 🌐💻</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently exploring Next.js 13.5
 - 🔭 I’m currently working on frontend projects.
 - 👯 I’m looking to collaborate on good projects.
 
