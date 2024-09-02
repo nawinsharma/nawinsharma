@@ -23,7 +23,7 @@
 
 <h2>Databases and ORMs</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,mongo,redis)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
