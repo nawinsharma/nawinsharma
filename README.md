@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nawin</h1>
-<h3 align="center">I'm Exploring the Boundless Horizons of Web Development 🌐💻</h3>
 
 - 🌱 I’m currently exploring WebRTC and Graphql
 - 👯 I’m looking to collaborate on good projects.
