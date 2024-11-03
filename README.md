@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nawin</h1>
 
-- 🌱 I’m currently exploring WebRTC and Graphql
+- 🌱 I’m currently exploring Backend development and devops
 - 👯 I’m looking to collaborate on good projects.
 
 - 📫 How to reach me **nawinsharma60+github@gmail.com**   |    **msg.nawin+github@gmail.com**
