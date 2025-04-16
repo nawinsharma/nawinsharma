@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nawin</h1>
 
-- 🌱 I’m currently exploring AI and MCP
+- 🌱 I’m currently exploring AI
 - 📫 How to reach me **msg.nawin+github@gmail.com**
 - building https://schoolreview.in/
   
