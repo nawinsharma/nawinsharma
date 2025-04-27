@@ -2,10 +2,9 @@
 
 - 🌱 I’m currently exploring AI
 - 📫 How to reach me **msg.nawin+github@gmail.com**
-- building https://lesson-plan-generator.vercel.app/ <br />
+- building  <br />
  https://www.theschoolreview.in/  <br />
- https://chatbot.nawin.xyz/
-  
+https://lesson-plan-generator.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
