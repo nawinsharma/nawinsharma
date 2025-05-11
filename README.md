@@ -4,7 +4,6 @@
 - 📫 How to reach me **msg.nawin+github@gmail.com**
 - building  <br />
  https://www.theschoolreview.in/  <br />
-https://lesson-plan-generator.vercel.app/
 - reading <a href="http://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank">Attention Is All You Need</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
