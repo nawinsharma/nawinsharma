@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nawin</h1>
 
-- 🌱 I’m currently exploring AI
+<img src="https://github-readme-stats.vercel.app/api?username=nawinsharma&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+
+- 🌱 I’m currently playing with langchain and qdrant db
 - 📫 How to reach me **msg.nawin+github@gmail.com**
 - reading <a href="http://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank">Attention Is All You Need</a>
 <h3 align="left">Connect with me:</h3>
@@ -16,12 +18,12 @@
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwindcss,hono)](https://skillicons.dev)
 
 <h2>Databases and ORMs</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,prisma,mongo)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,linux,npm,pnpm,bash,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,npm,pnpm,bash,docker,nginx,githubactions)](https://skillicons.dev)
