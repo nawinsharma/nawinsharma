@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nawinsharma&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
-- 🌱 I’m currently playing with LangGraph
+- 🌱 I’m currently playing with LangGraph, neo4j
 - 📫 How to reach me **msg.nawin+github@gmail.com**
 - reading <a href="http://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank">Attention Is All You Need</a>
 <h3 align="left">Connect with me:</h3>
