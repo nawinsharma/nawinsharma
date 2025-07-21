@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nawinsharma&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
-- building <a href="[https://www.anthropic.com/news/contextual-retrieval](https://inkbehind.nawin.xyz/)" target="_blank">https://inkbehind.nawin.xyz/</a>
+- building <a href="https://chatbit.nawin.xyz/" target="_blank">chatbit/</a>
 - 📫 How to reach me **msg.nawin+github@gmail.com**
 - reading <a href="http://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank">Attention Is All You Need</a> , <a href="https://machinelearning.apple.com/research/illusion-of-thinking" target="_blank">illusion of thinking</a>
 and
