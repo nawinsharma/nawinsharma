@@ -4,7 +4,6 @@
 - currently learning Web3 and Rust
 - 📫 How to reach me **msg.nawin+github@gmail.com**
 - reading <a href="http://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank">Attention Is All You Need</a> , <a href="https://machinelearning.apple.com/research/illusion-of-thinking" target="_blank">illusion of thinking</a>
-and
 <!-- <a href="https://www.anthropic.com/news/contextual-retrieval" target="_blank">Contextual Retrieval</a> -->
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
